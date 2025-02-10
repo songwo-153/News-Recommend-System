@@ -8,6 +8,17 @@
 
 Java+SSM(Spring+SpringMVC+Mybatis)+Mysql基于用户的协同过滤算法个性化新闻推荐系统，采用基于用户、项目、内容、聚类、混合的协同过滤推荐算法。
 
+## 智能新闻推荐系统项目在线演示地址：
+[前台演示地址（推荐用谷歌浏览器）：http://1.95.71.218:8090/WebNewsRecommendSystem/](http://1.95.71.218:8090/WebNewsRecommendSystem/)      
+  
+[后台演示地址（用谷歌浏览器）：http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login](http://1.95.71.218:8090/WebNewsRecommendSystem/admin/login)    
+
+[第二个新闻推荐前台演示地址：http://1.95.71.218:8081/NewsRecommendOnline/](http://1.95.71.218:8081/NewsRecommendOnline/)    
+
+[第二个新闻推荐后台演示地址：http://1.95.71.218:8081/NewsRecommendOnline/admin/login](http://1.95.71.218:8081/NewsRecommendOnline/admin/login)     
+
+
+
  **源码获取：** [协同过滤算法个性化新闻推荐系统源码.zip](https://github.com/user-attachments/files/18202253/default.zip)
 
 
